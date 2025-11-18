@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="IDE and VCS Workflow Project/IDE and VCS Workflow Project.vcxproj" />
+  <Project Path="IDE and VCS Workflow Project/IDE and VCS Workflow Project.vcxproj" Id="c409537c-5868-49a6-88ff-60f19d7cde83" />
 </Solution>
